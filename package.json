@@ -1,6 +1,6 @@
 {
   "name": "potatoe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Task runner that just runs npm scripts, but faster. For potato computers.",
   "main": "index.js",
   "scripts": {
