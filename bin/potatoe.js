@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 var nopt = require('nopt');
-var readJson = require('../packages/read-package-json'); // TODO: publish this.
+var readJson = require('read-package-json');
 var shellParse = require('shell-quote').parse;
-var npmFindPrefix = require('npm-find-prefix');
+var npmFindPrefix = require('../packages/npm-find-prefix'); // TODO: publish this.
 var path = require('path');
 var vm = require('vm');
 var fs = require('fs');
