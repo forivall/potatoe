@@ -1,0 +1,21 @@
+{
+  "name": "potatoe",
+  "version": "0.0.1",
+  "description": "A Task runner that just runs npm scripts, but faster. For potato computers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "potatoe": "bin/potatoe.js",
+    "potato": "bin/potatoe.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nopt": "^3.0.6",
+    "read-package-json": "^2.0.2",
+    "shell-quote": "^1.4.3"
+  }
+}

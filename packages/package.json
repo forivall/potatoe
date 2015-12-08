@@ -1,0 +1,12 @@
+{
+  "name": "npm-find-prefix",
+  "version": "1.0.0",
+  "description": "npm's find-prefix.js exported as a node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["npm", "prefix", "package.json"],
+  "author": "",
+  "license": "Artistic-2.0"
+}
