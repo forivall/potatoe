@@ -49,7 +49,6 @@ npmFindPrefix(process.cwd(), function(err, prefix) {
         // TODO: properly require non-core modules that are in the script's local node_modules
         // currently, this will only work with npm@3+
         if (/^\.{0,2}\//.test(id)) {
-          console.log(scriptDir);
           id = path.join(scriptDir, id);
         }
         return require(id);
