@@ -8,3 +8,8 @@ subset of shell script
 
 bail if:
 * TODO
+
+Tests
+=====
+
+write them!
