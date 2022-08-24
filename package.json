@@ -17,7 +17,7 @@
     "glob": "^6.0.1",
     "nopt": "^3.0.6",
     "object-assign": "^4.0.1",
-    "read-package-json": "^2.0.2",
+    "read-package-json": "^5.0.2",
     "require-like": "^0.1.2",
     "shell-quote": "^1.4.3"
   },
