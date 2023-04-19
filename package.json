@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^6.0.1",
+    "glob": "^10.2.1",
     "nopt": "^3.0.6",
     "object-assign": "^4.0.1",
     "read-package-json": "^2.0.2",
